@@ -2,8 +2,6 @@
 
 Portfolio personnel présentant mon parcours, mes compétences et mes projets en développement web.
 
-🔗 **Aperçu** : *(ajoutez ici le lien une fois le site déployé, par ex. GitHub Pages)*
-
 ## ✨ Aperçu
 
 Ce site à une seule page (single page) présente :
